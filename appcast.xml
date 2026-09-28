@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seam</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Mon, 28 Sep 2026 15:45:51 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Seam 0.3.0</h2>
+<ul>
+<li>AI agents can now work in Seam. Connect Claude Code, Codex or Grok from Settings › Agents, then ask for a carousel, a collage or a new order for your grid.</li>
+<li>Agents start from a template or a blank canvas, place your photos, write the text, and sort and arrange grids. You see each change as it happens, and Undo takes it back.</li>
+<li>Agents can look at a project or the grid while they work, and export the finished files to your Pictures folder.</li>
+<li>Arrow keys move a post past a launch cover and move the cover a row at a time. Instagram import says when it can't read a picture, and canvas videos start without a pause.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.3.0-3/Seam-0.3.0-3.zip" length="6305933" type="application/octet-stream" sparkle:edSignature="Q2mHroHfs++0QR6jsVGUHmm751pfa+Vtl/hNJyoTq427lMcW9/jOnSjYvl7IFf2cllQEkLfqZ68zpcSCusCaDg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sun, 27 Sep 2026 21:06:19 -0700</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -39,6 +55,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KeLT1LgHHuCyAYQzha6yIQKpSLlFMkKJZKKEgcFPhDZHyRSzudSeqA9BUUacTWhZbXgBB9F9/rWtiHlTlu9OAA==
-length: 2737
+edSignature: sDSOJhoER0YyI9gNiCyP7MUI+9srUKURkAc+aVwbDXWiC+Q39JQq29SdCSAymTRcsEbjhxGxPnjRCa1Pr63KDg==
+length: 4081
 -->
