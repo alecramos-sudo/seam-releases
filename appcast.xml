@@ -1,8 +1,30 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Seam</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sun, 27 Sep 2026 21:06:19 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Seam 0.2.0</h2>
+<ul>
+<li>Drag posts around the grid and watch the others move aside. Hold near an edge to scroll, and pinch to zoom.</li>
+<li>Shuffle the grid, sort it newest or oldest first, or try Best Color Order. Posted, pinned and puzzle posts stay put.</li>
+<li>Launch Cover: cut one photo into 6 to 15 posts that come together at the top of your profile.</li>
+<li>Import your live feed from Instagram's Download Your Information export.</li>
+<li>Videos play in the canvas. Option-drag a photo onto another frame to swap them.</li>
+<li>Photos snap to slide edges, so nothing peeks a few pixels into the next slide.</li>
+<li>Settings › Editor can hide filters and adjustments if you finish color in Lightroom.</li>
+<li>Help › Send Feedback or Suggest a Feature.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.2.0-2/Seam-0.2.0-2.zip" length="5678667" type="application/octet-stream" sparkle:edSignature="W4IQyqK8zhY88pDVSSah1Hp3B8n5PQnnGBH+C75xHGm63l+TUkGGukdPiIsHUMMeBxz2KAk0Piy6RDMiHPl1BA=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Sat, 26 Sep 2026 22:56:00 -0700</pubDate>
@@ -12,10 +34,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <description><![CDATA[<h2>Seam 0.1.0</h2>
 <p>The first release of Seam for Mac: seamless carousels, collages and photo grids, templates, a color-led grid planner, and video export. Updates arrive through Sparkle.</p>
 ]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.1.0-1/Seam-0.1.0-1.zip" length="5319152" type="application/octet-stream" sparkle:edSignature="ZTj6Crj4mQCPc+JldwRcZVyIlFAIeRwXPl71BLlbOm+fifuuA6aFLb687kSVuHDtvqkvzffyM1lgPsrT2IY2Cg=="></enclosure>
+            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.1.0-1/Seam-0.1.0-1.zip" length="5319152" type="application/octet-stream" sparkle:edSignature="ZTj6Crj4mQCPc+JldwRcZVyIlFAIeRwXPl71BLlbOm+fifuuA6aFLb687kSVuHDtvqkvzffyM1lgPsrT2IY2Cg=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: 56Iea/ea8JdAdo0RM0eGTltQlEt3xkoVqA8tP8+Av+xdiTe42SHVq36SfmvgkZYFN8Vq5N/joEFJg2CaUt11Ag==
-length: 1295
+</rss>
+<!-- sparkle-signatures:
+edSignature: KeLT1LgHHuCyAYQzha6yIQKpSLlFMkKJZKKEgcFPhDZHyRSzudSeqA9BUUacTWhZbXgBB9F9/rWtiHlTlu9OAA==
+length: 2737
 -->
