@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seam</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Mon, 28 Sep 2026 18:16:28 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Seam 0.4.1</h2>
+<ul>
+<li>The address cloud agents use is now https://seam.peakperspective.workers.dev/mcp. After updating, open Seam once with cloud agents turned on and wait for Connected in Settings › Agents, then change the address in your cloud agent. Your token stays the same.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.4.1-5/Seam-0.4.1-5.zip" length="6393873" type="application/octet-stream" sparkle:edSignature="JS8xbm4ON+kJjt9+4s0bokiXolwhdz4kAOAJrcMZyPrAhEnchTmeIArazq+RoSzjKNuS5ycg2pR+s3M47IDACw=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Mon, 28 Sep 2026 17:36:56 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -36,29 +49,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.3.0-3/Seam-0.3.0-3.zip" length="6305933" type="application/octet-stream" sparkle:edSignature="Q2mHroHfs++0QR6jsVGUHmm751pfa+Vtl/hNJyoTq427lMcW9/jOnSjYvl7IFf2cllQEkLfqZ68zpcSCusCaDg=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sun, 27 Sep 2026 21:06:19 -0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Seam 0.2.0</h2>
-<ul>
-<li>Drag posts around the grid and watch the others move aside. Hold near an edge to scroll, and pinch to zoom.</li>
-<li>Shuffle the grid, sort it newest or oldest first, or try Best Color Order. Posted, pinned and puzzle posts stay put.</li>
-<li>Launch Cover: cut one photo into 6 to 15 posts that come together at the top of your profile.</li>
-<li>Import your live feed from Instagram's Download Your Information export.</li>
-<li>Videos play in the canvas. Option-drag a photo onto another frame to swap them.</li>
-<li>Photos snap to slide edges, so nothing peeks a few pixels into the next slide.</li>
-<li>Settings › Editor can hide filters and adjustments if you finish color in Lightroom.</li>
-<li>Help › Send Feedback or Suggest a Feature.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.2.0-2/Seam-0.2.0-2.zip" length="5678667" type="application/octet-stream" sparkle:edSignature="W4IQyqK8zhY88pDVSSah1Hp3B8n5PQnnGBH+C75xHGm63l+TUkGGukdPiIsHUMMeBxz2KAk0Piy6RDMiHPl1BA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: IkYMPAJIXUfGMNlNswBnIzYiGM164aIfAwkV1737jOEjsP3JToV5IpVqmMpol4L0n74iv3OgqXt0ocbm6N+mAA==
-length: 4299
+edSignature: 0NpOn5aWJ13W1FIf+U6Eln4ffwsjNt3/zHAPQDwGgvxf2xV4ugwMrgh8+skQQEZvPrpxMw4maerHxv3YKYo4Aw==
+length: 3813
 -->
