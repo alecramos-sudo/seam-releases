@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seam</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Mon, 28 Sep 2026 17:36:56 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Seam 0.4.0</h2>
+<ul>
+<li>Agents that run in the cloud, like Grok Bot, can now work in Seam. Turn on Settings › Agents › Cloud agents, then give the agent the server URL and your token. Seam dials out, so nothing on your Mac is opened to the internet.</li>
+<li>Agents can hand Seam pictures as web links.</li>
+<li>Seam speaks the newest version of the agent protocol as well as the earlier one.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.4.0-4/Seam-0.4.0-4.zip" length="6393873" type="application/octet-stream" sparkle:edSignature="05zKOgy+vJc9FbBfKZI1KV5/sZBh7vIcmXl2FF017A/jockC+oM4qg/fziuz1ORW2jeG2/4k9fZnoFhvmYOWAg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Mon, 28 Sep 2026 15:45:51 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -41,20 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.2.0-2/Seam-0.2.0-2.zip" length="5678667" type="application/octet-stream" sparkle:edSignature="W4IQyqK8zhY88pDVSSah1Hp3B8n5PQnnGBH+C75xHGm63l+TUkGGukdPiIsHUMMeBxz2KAk0Piy6RDMiHPl1BA=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 26 Sep 2026 22:56:00 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Seam 0.1.0</h2>
-<p>The first release of Seam for Mac: seamless carousels, collages and photo grids, templates, a color-led grid planner, and video export. Updates arrive through Sparkle.</p>
-]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/seam-releases/releases/download/v0.1.0-1/Seam-0.1.0-1.zip" length="5319152" type="application/octet-stream" sparkle:edSignature="ZTj6Crj4mQCPc+JldwRcZVyIlFAIeRwXPl71BLlbOm+fifuuA6aFLb687kSVuHDtvqkvzffyM1lgPsrT2IY2Cg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: sDSOJhoER0YyI9gNiCyP7MUI+9srUKURkAc+aVwbDXWiC+Q39JQq29SdCSAymTRcsEbjhxGxPnjRCa1Pr63KDg==
-length: 4081
+edSignature: IkYMPAJIXUfGMNlNswBnIzYiGM164aIfAwkV1737jOEjsP3JToV5IpVqmMpol4L0n74iv3OgqXt0ocbm6N+mAA==
+length: 4299
 -->
